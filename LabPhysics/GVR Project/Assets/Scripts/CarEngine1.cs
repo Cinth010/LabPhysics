@@ -8,9 +8,9 @@ public class CarEngine1 : MonoBehaviour {
     public float maxSteerAngle = 45f;
     public WheelCollider wheelFL;
     public WheelCollider wheelFR;
-    public float maxMotorTorque = 150f;
+    public float maxMotorTorque = 100f;
     public float currentSpeed;
-    public float maxSpeed = 150f;
+    public float maxSpeed = 100f;
     public Vector3 centerOfMass;
 
     private List<Transform> nodes;

@@ -171,6 +171,7 @@
     <Compile Include="Assets\Scripts\CameraSwitch.cs" />
     <Compile Include="Assets\Scripts\CarEngine1.cs" />
     <Compile Include="Assets\Scripts\CarWheel.cs" />
+    <Compile Include="Assets\Scripts\ChangePosition.cs" />
     <Compile Include="Assets\Scripts\Spath.cs" />
     <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrAdditiveOverlay.shader" />
