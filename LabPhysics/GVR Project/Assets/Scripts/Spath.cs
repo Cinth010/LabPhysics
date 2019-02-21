@@ -37,7 +37,7 @@ public class Spath : MonoBehaviour {
                 }
 
             Gizmos.DrawLine(previousNode, currentNode);
-            Gizmos.DrawWireSphere(currentNode, 3f);
+            Gizmos.DrawWireSphere(currentNode, 1.5f);
             }
           
         }
