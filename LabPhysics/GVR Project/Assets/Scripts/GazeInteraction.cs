@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 public class GazeInteraction : MonoBehaviour
 {
 
-    public float gazeTime = 2f;
+    public float gazeTime;
     private float timer;
     private bool gazedAt;
 
